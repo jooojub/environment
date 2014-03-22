@@ -1,0 +1,5 @@
+If you want to settings about Apache:
+    $ /etc/apache2/apache2.conf
+
+Also, If you want to settings about Mysql:
+    $ /etc/mysql/my.cnf
